@@ -3,7 +3,7 @@
 Estamos lançando uma campanha especial para sortear um ingresso entre aqueles que estão iniciando suas carreiras em desenvolvimento web! Se você tem entre 6 meses a 1 ano de experiência em estudos de desenvolvimento e deseja demonstrar suas habilidades, essa é a sua chance de brilhar!
 
 **Como participar:**
-Envie seu CV e portfólio para o e-mail **comunidaderh23@gmail.com**. Junto com seu envio, você receberá um desafio técnico que deverá ser completado dentro de uma semana.
+Envie seu CV e portfólio para o e-mail **comunidaderh23@gmail.com**. Junto com seu envio, você receberá um desafio técnico que deverá ser completado dentro de uma semana do dia 02/09/2024.
 
 ### **Desafio: Criar um Aplicativo de Lista de Tarefas Colaborativo**
 
